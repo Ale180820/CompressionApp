@@ -1,0 +1,9 @@
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\bin\Debug\netcoreapp3.1\CustomGenerics.deps.json
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\bin\Debug\netcoreapp3.1\CustomGenerics.dll
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\bin\Debug\netcoreapp3.1\CustomGenerics.pdb
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\obj\Debug\netcoreapp3.1\CustomGenerics.csprojAssemblyReference.cache
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\obj\Debug\netcoreapp3.1\CustomGenerics.AssemblyInfoInputs.cache
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\obj\Debug\netcoreapp3.1\CustomGenerics.AssemblyInfo.cs
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\obj\Debug\netcoreapp3.1\CustomGenerics.csproj.CoreCompileInputs.cache
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\obj\Debug\netcoreapp3.1\CustomGenerics.dll
+C:\Users\ayalr\source\repos\CompressionApp\CustomGenerics\obj\Debug\netcoreapp3.1\CustomGenerics.pdb
